@@ -1,0 +1,3 @@
+Best solution:	[11, 7, 10, 7, 8, 2, 0, 11]
+Best fitness:	640000.0
+Run time:	0:06:58.454514
